@@ -1,4 +1,4 @@
-# Weather-App
+# Quiz-App
 I recently delved into the world of web development and embarked on a journey to create a small quiz application using React.js. With its intuitive component-based architecture and efficient state management, React.js provided the perfect framework for me to bring my idea to life. Leveraging its robust ecosystem of libraries and tools, I crafted an engaging user interface that seamlessly guides users through a series of thought-provoking questions.Overall, creating this quiz app was a fulfilling experience that underscored the power and versatility of React.js in building dynamic and interactive web applications.
 # What I learned from this
 -> Components and Component rendering <br />
